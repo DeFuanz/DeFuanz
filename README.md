@@ -1,6 +1,6 @@
 ![pexels-photo-1420709banner](https://user-images.githubusercontent.com/76855046/216793896-1b1aa1a6-2d51-4332-9e4c-69563176f161.png)
 
-<h1 align="center">Hi 👋, I'm John DeFore</h1>
+<h1 align="center">Hello, I'm John </h1>
 <h3 align="center">A developer passionate about using my knowledge of programming languages to solve problems and build solutions that help or entertain people.</h3>
 
 - I’m currently working on [Gara](https://github.com/DeFuanz/Gara) - A Crossplatform application to store vehicle mileage information and gasoline fill up up statistics
