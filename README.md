@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm John DeFore</h1>
 <h3 align="center">A developer passionate about using my knowledge of programming languages to solve problems and build solutions that help or entertain people.</h3>
 
-- 🔭 I’m currently working on [Gara](https://github.com/DeFuanz/Gara)
+- I’m currently working on [Gara](https://github.com/DeFuanz/Gara) - A Crossplatform application to store vehicle mileage information and gasoline fill up up statistics
 
-- 🌱 I’m currently learning **Flutter/dart, C#/Razor pages, Firebase, as well as extending my knowledge of data structures and algorithms**
+- Currently Studying: **Flutter/dart, C#/Razor pages, Firebase, as well as extending my knowledge of data structures and algorithms**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,5 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=defuanz&show_icons=true&locale=en&layout=compact" alt="defuanz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=defuanz&show_icons=true&locale=en" alt="defuanz" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=defuanz&" alt="defuanz" /></p>
