@@ -18,4 +18,3 @@ Development for this app initially started in [Gara](https://github.com/DeFuanz/
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=defuanz&show_icons=true&locale=en&layout=compact" alt="defuanz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=defuanz&show_icons=true&locale=en" alt="defuanz" /></p>
